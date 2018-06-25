@@ -1,0 +1,29 @@
+html{
+  background-color: dodgerblue;
+}
+
+body{
+  width: 500px;
+  height: 800px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: lawngreen;
+  border: 5px solid black;
+}
+
+#first{
+  color: deepskyblue;
+  font: bold 30px cursive;
+}
+
+#second{
+  color: orangered;
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+  border: 10px ridge gold;
+  border-radius: 100%
+}
